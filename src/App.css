@@ -20,23 +20,23 @@ a {
 }
 
 .text {
-  padding-top: 15%;
-  padding-left: 15%;
+  margin-top: 15%;
+  margin-left: 15%;
 }
 
 .projects {
-  padding-left: 17%
+  margin-left: 17%
 }
 
 
 .icon {
-  padding-right: 2%;
+  margin-right: 2%;
   width: 2vw;
   height: 2vw
 }
 
 #subheading {
-  padding-left: 2%
+  margin-left: 2%
 }
 
 
@@ -46,23 +46,23 @@ a {
 }
 
 #skills {
-  padding-top: 15%;
+  margin-top: 15%;
   width: 20vw;
   height: 8vw; 
-  padding-left: 50%
+  margin-left: 50%
 }
 
 #projects {
-  padding-top: 15%;
+  margin-top: 15%;
   width: 30vw;
   height: 8vw; 
-  padding-left: 15%
+  margin-left: 15%
 }
 
 #github {
   width: 5vw;
   height: 5vw;
-  padding-left: 16%
+  margin-left: 16%
 }
 
 #proficient, #knowledgeable, #familiar {
@@ -70,17 +70,17 @@ a {
 }
 
 #proficient {
-  padding-top: 2%;
-  padding-left: 52%;
+  margin-top: 2%;
+  margin-left: 45%;
   margin-right: 2%
 }
 
 #knowledgeable {
-  padding-top: 2%;
+  margin-top: 2%;
   margin-right: 2%
 }
 
 #familiar {
-  padding-top: 2%;
+  margin-top: 2%;
   margin-right: 2%
 }
