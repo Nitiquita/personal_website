@@ -26,7 +26,6 @@ class App extends Component {
             </div>
           </div>
         </Parallax.Layer>
-
         <Parallax.Layer
           offset={1}>
           <div id="skills">
