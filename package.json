@@ -15,5 +15,6 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages-deploy",
     "clean-source": "rimraf README.md src webroot package.json"
-  }
+  },
+  "homepage" : "http://nitiquita.github.io/personal_website"
 }
